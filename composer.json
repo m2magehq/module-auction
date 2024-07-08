@@ -1,6 +1,6 @@
 {
   "name": "magehqm2/module-auction",
-  "description": Auction extension for Magento 2",
+  "description": "Auction extension for Magento 2",
   "type": "magento2-module",
   "minimum-stability": "dev",
   "version": "1.0.0",
